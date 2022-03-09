@@ -1,4 +1,8 @@
 # Gladys_Toledo-Rodriguez_CS445_HW_3
+Enter the downloaded file:
+
+    cd Gladys_Toledo-Rodriguez_CS445_HW_3
+
 ## Build and run instructions
 To build and run using the Makefile, first navigate to the project folder and then run the app by typing the following simple command in the terminal:
 
