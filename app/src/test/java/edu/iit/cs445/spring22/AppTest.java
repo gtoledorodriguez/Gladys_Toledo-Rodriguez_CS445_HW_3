@@ -4,6 +4,10 @@
 package edu.iit.cs445.spring22;
 
 import org.junit.jupiter.api.Test;
+
+import edu.iit.cs445.spring22.LightSource.*;
+import edu.iit.cs445.spring22.Switch.*;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 class AppTest {

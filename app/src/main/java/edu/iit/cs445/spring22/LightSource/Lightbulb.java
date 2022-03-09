@@ -1,4 +1,4 @@
-package edu.iit.cs445.spring22;
+package edu.iit.cs445.spring22.LightSource;
 
 public class Lightbulb{
 	private boolean lightSourceOn = false;
